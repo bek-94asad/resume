@@ -22,9 +22,9 @@ a:active {
   color: blue;
 }
 
-a:visited {
+/*a:visited {
   color: grey;
-}
+}*/
 
 .container {
   max-width: 750px;
